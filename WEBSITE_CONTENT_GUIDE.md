@@ -28,7 +28,7 @@ Your Little Playroom Cafe website uses a simple content management system that a
 - ✅ **Social media links**
 
 ### What You Cannot Modify:
-- ❌ **Images** (must be replaced in the `images/` folder)
+- ❌ **Images** (must be replaced in imgur https://imgur.com/a/27yLEF6)
 - ❌ **Page structure** (requires HTML editing)
 - ❌ **Styling** (requires CSS editing)
 
@@ -83,7 +83,8 @@ DESCRIPTION_TEXT = This text will appear on your website
 1. **Find** the content key you want to modify
 2. **Edit** the text after the `=` sign
 3. **Save** the file
-4. **Refresh** your browser to see changes
+4. **Upload** the file through github Desktop
+5. **Refresh** your browser to see changes
 
 ### Step 4: Test Your Changes
 1. **Open** your website in a browser
