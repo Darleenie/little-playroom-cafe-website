@@ -9,7 +9,7 @@ HOME PAGE (index.html)
 ================================================================================
 
 HERO SECTION:
-- Welcome text: "WELCOME TO"
+- Welcome text: "Welcome to"
 - Main title: "About Little Playroom Cafe"
 - Subtitle: "Make your child's special day unforgettable"
 - Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
