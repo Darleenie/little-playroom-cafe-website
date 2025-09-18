@@ -11,7 +11,7 @@ HOME PAGE (index.html)
 HERO SECTION:
 - Welcome text: "Welcome to"
 - Main title: "About Little Playroom Cafe"
-- Subtitle: "Make your child's special day unforgettable"
+- Subtitle: "Make your child's special day unforgettable!"
 - Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - CTA button: "View Full Gallery!"
 
@@ -44,7 +44,7 @@ ABOUT PAGE (pages/about.html)
 
 HERO SECTION:
 - Title: "Booking & Payments"
-- Subtitle: "Make your child's special day unforgettable"
+- Subtitle: "Make your child's special day unforgettable!"
 
 ABOUT CONTENT:
 - Main title: "About Little Playroom Cafe"
@@ -78,7 +78,7 @@ MENU PAGE (pages/menu.html)
 
 HERO SECTION:
 - Title: "Booking & Payments"
-- Subtitle: "Make your child's special day unforgettable"
+- Subtitle: "Make your child's special day unforgettable!"
 
 COFFEE MENU:
 - Title: "Booking & Payments"
@@ -86,7 +86,7 @@ COFFEE MENU:
 
 KIDS SNACK MENU:
 - Title: "Booking & Payments"
-- Subtitle: "Make your child's special day unforgettable"
+- Subtitle: "Make your child's special day unforgettable!"
 
 Fresh & Simple:
 - Apple Slices with Sunbutter Dip
@@ -121,7 +121,7 @@ PARTY PAGE (pages/party.html)
 
 HERO SECTION:
 - Title: "Booking & Payments"
-- Subtitle: "Make your child's special day unforgettable"
+- Subtitle: "Make your child's special day unforgettable!"
 
 PARTY CTA:
 - Title: "Booking & Payments"
@@ -201,7 +201,7 @@ CONTACT PAGE (pages/contact.html)
 
 HERO SECTION:
 - Title: "Booking & Payments"
-- Subtitle: "Make your child's special day unforgettable"
+- Subtitle: "Make your child's special day unforgettable!"
 
 CONTACT FORM:
 - Title: "Booking & Payments"
@@ -236,7 +236,7 @@ RULES PAGE (pages/rules.html)
 
 HERO SECTION:
 - Title: "Booking & Payments"
-- Subtitle: "Make your child's special day unforgettable"
+- Subtitle: "Make your child's special day unforgettable!"
 - Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 SAFETY RULES:
@@ -286,7 +286,7 @@ PARTNERSHIP PAGE (pages/partnership.html)
 
 HERO SECTION:
 - Title: "Booking & Payments"
-- Subtitle: "Make your child's special day unforgettable"
+- Subtitle: "Make your child's special day unforgettable!"
 - Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 PARTNERSHIP CONTENT:
@@ -374,7 +374,7 @@ GALLERY PAGE (pages/gallery.html)
 
 HERO SECTION:
 - Title: "Booking & Payments"
-- Subtitle: "Make your child's special day unforgettable"
+- Subtitle: "Make your child's special day unforgettable!"
 - Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 GALLERY ITEMS:
