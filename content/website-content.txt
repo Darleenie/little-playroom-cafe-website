@@ -135,7 +135,7 @@ PARTY PACKAGE:
 PACKAGE PRICING:
 - Title: "Booking & Payments"
 - Base Package: "$400-500 for 2 hours - 10 Kids (includes birthday child) + 20 Adults"
-- Package Includes: "Kids tickets for play area access, themed tablecloths, decorative balloons, cake display stand (cake not included), themed tableware and cups for 10 children, one 16-inch pizza with 2 toppings (for every 5 children), children's juice and bottled water, tableware and iced tea for adults, help setting up and cleaning up"
+- Package Includes: "Kids tickets for play area access, Included for $500 package themed tablecloths, decorative balloons, cake display stand (cake not included), themed tableware and cups for 10 children, one 16-inch pizza with 2 toppings (for every 5 children), children's juice and bottled water, tableware and iced tea for adults, help setting up and cleaning up"
 - Additional Children: "$29 per additional child (Includes: $19.99 play pass + $9 for food and drinks)"
 - Additional Adults: "$10 per additional adult"
 - Cancellation Policy: "Full refund: Cancel up to seven business days before your party. Deposit charged: If cancelled less than 5 days before the party"
