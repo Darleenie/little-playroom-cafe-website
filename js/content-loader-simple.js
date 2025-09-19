@@ -94,10 +94,10 @@ class SimpleContentLoader {
             console.log('Found subtitle:', content.subtitle);
         }
         
-        // Extract description
-        const descMatch = text.match(/- Description: "([^"]+)"/);
+        // Extract description (handle multi-line descriptions)
+        const descMatch = text.match(/- Description: "([\s\S]*?)"\s*\n\s*-/);
         if (descMatch) {
-            content.description = descMatch[1];
+            content.description = descMatch[1].trim().replace(/\n\s+/g, '<br>');
             console.log('Found description:', content.description);
         }
         
@@ -164,9 +164,15 @@ class SimpleContentLoader {
             
             if (contentValue) {
                 // Only update if content has changed
-                if (element.textContent !== contentValue) {
+                const currentContent = element.textContent || element.innerHTML;
+                if (currentContent !== contentValue) {
                     console.log(`Updating ${contentKey} with: ${contentValue}`);
-                    element.textContent = contentValue;
+                    // Use innerHTML for description field to support HTML formatting
+                    if (contentKey === 'description') {
+                        element.innerHTML = contentValue;
+                    } else {
+                        element.textContent = contentValue;
+                    }
                     hasUpdates = true;
                 }
             } else {

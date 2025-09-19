@@ -10,10 +10,14 @@ HOME PAGE (index.html)
 
 HERO SECTION:
 - Welcome text: "Welcome to"
-- Main title: "LITTLE PLAYROOM CAFÉ"
-- Subtitle: "Not Your Ordinary Playground"
-- Description: "A safe and fun environment where children can play, learn, and create memories"
-- CTA button: "Explore Now"
+- Main title: "Little Playroom Cafe"
+- Subtitle: "Make your child's special day unforgettable!"
+- Description: "A safe and fun environment where children can play, learn, and create memories.
+                        Day Pass (Same Day Re-entry Allowed): 
+                        $19.99 per child; $14.99 2nd child; $9.99 3rd child
+                        Monthly Pass (one child): $149 (Unlimited Play)
+                        Family Monthly Pass (up to 3 children): $249"
+- CTA button: "View Full Gallery!"
 
 QUICK NAVIGATION:
 - About: "Learn about our cafe"
@@ -22,48 +26,48 @@ QUICK NAVIGATION:
 - Contact: "Get in touch with us"
 
 TAGLINE SECTION:
-- Title: "Play. Learn. Party."
-- Description: "Three simple words that capture everything we do at Little Playroom Cafe. We believe every child deserves a space where they can be themselves, explore their creativity, and make lasting friendships."
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 ABOUT PREVIEW:
-- Title: "About Our Cafe"
-- Description 1: "Little Playroom Cafe is more than just a play space – it's a community hub where families come together to create memories. Our unique concept combines safe play areas with a comfortable cafe environment, allowing parents to relax while their children explore and have fun."
-- Description 2: "We offer age-appropriate play zones, educational activities, and delicious food options for the whole family. Our mission is to provide a welcoming environment where children can develop social skills, creativity, and confidence through play."
-- CTA button: "Learn More"
+- Title: "Booking & Payments"
+- Description 1: "Unlike traditional playgrounds or cafes, we offer a hybrid experience that caters to the whole family. Our play areas are thoughtfully designed with age-appropriate equipment, ensuring safety while promoting development. Meanwhile, our cafe serves delicious, healthy options that both kids and adults will love."
+- Description 2: "We also specialize in birthday parties and special events, providing a stress-free celebration experience with our all-inclusive packages. From themed decorations to catering, we handle every detail so you can focus on making memories."
+- CTA button: "View Full Gallery!"
 
 GALLERY PREVIEW:
-- Title: "Take a Look Around"
+- Title: "Booking & Payments"
 - Playground overlay: "Playground"
 - Learning Zone overlay: "Learning Zone"
 - Cafe overlay: "Cafe"
-- CTA button: "View Full Gallery"
+- CTA button: "View Full Gallery!"
 
 ================================================================================
 ABOUT PAGE (pages/about.html)
 ================================================================================
 
 HERO SECTION:
-- Title: "About Little Playroom Cafe"
-- Subtitle: "Where Play Meets Community"
+- Title: "Booking & Payments"
+- Subtitle: "Make your child's special day unforgettable!"
 
 ABOUT CONTENT:
 - Main title: "About Little Playroom Cafe"
-- Description 1: "Little Playroom Cafe is an indoor play space located in Madison, Wisconsin, specially designed for children ages 2 to 10. We've created a safe, clean, and imaginative environment where kids can freely explore, play, develop motor skills, and make new friends."
-- Description 2: "Our play area includes a variety of fun and engaging zones such as slides, climbing structures, building blocks, and pretend play corners—perfect for sparking creativity and encouraging social interaction."
+- Description 1: "Unlike traditional playgrounds or cafes, we offer a hybrid experience that caters to the whole family. Our play areas are thoughtfully designed with age-appropriate equipment, ensuring safety while promoting development. Meanwhile, our cafe serves delicious, healthy options that both kids and adults will love."
+- Description 2: "We also specialize in birthday parties and special events, providing a stress-free celebration experience with our all-inclusive packages. From themed decorations to catering, we handle every detail so you can focus on making memories."
 - Description 3: "We also care deeply about the experience of parents. That's why we offer a cozy cafe lounge with quality coffee, tea, and snacks, so you can relax, work, or connect with others while your child plays nearby."
 - Description 4: "Whether it's for everyday fun, quality family time, birthday parties, or group events, Little Playroom Cafe is your perfect destination for kids and parents alike."
 
 MISSION SECTION:
-- Title: "Our Mission"
-- Description: "We're committed to fostering a community where families feel welcome, children feel safe to explore, and everyone leaves with a smile. Our space is designed to encourage social interaction, creative play, and family bonding."
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 WHAT MAKES US SPECIAL:
-- Title: "What Makes Us Special"
+- Title: "Booking & Payments"
 - Description 1: "Unlike traditional playgrounds or cafes, we offer a hybrid experience that caters to the whole family. Our play areas are thoughtfully designed with age-appropriate equipment, ensuring safety while promoting development. Meanwhile, our cafe serves delicious, healthy options that both kids and adults will love."
 - Description 2: "We also specialize in birthday parties and special events, providing a stress-free celebration experience with our all-inclusive packages. From themed decorations to catering, we handle every detail so you can focus on making memories."
 
 VALUES:
-- Title: "Our Values"
+- Title: "Booking & Payments"
 - Safety First: "All our equipment meets the highest safety standards"
 - Community Focus: "We're building a space where families connect"
 - Quality Service: "Every visit should exceed expectations"
@@ -77,16 +81,16 @@ MENU PAGE (pages/menu.html)
 ================================================================================
 
 HERO SECTION:
-- Title: "Our Menu"
-- Subtitle: "Delicious coffee for parents and healthy snacks for kids"
+- Title: "Booking & Payments"
+- Subtitle: "Make your child's special day unforgettable!"
 
 COFFEE MENU:
-- Title: "Coffee Menu"
+- Title: "Booking & Payments"
 - Drinks: Americano, Caffè Latte, Mocha Latte, Matcha Latte, Chai Latte, Espresso, Hot Chocolate, Hot Tea, Cappuccino, Frappuccino (caramel, vanilla, chocolate, white chocolate)
 
 KIDS SNACK MENU:
-- Title: "Kids Snack Menu"
-- Subtitle: "Healthy and delicious snacks perfect for our little guests"
+- Title: "Booking & Payments"
+- Subtitle: "Make your child's special day unforgettable!"
 
 Fresh & Simple:
 - Apple Slices with Sunbutter Dip
@@ -110,7 +114,7 @@ Dairy / Protein:
 - Air-Popped Popcorn (Lightly Salted, Nut-Free)
 
 MENU INFORMATION:
-- Title: "Menu Information"
+- Title: "Booking & Payments"
 - All our kids snacks are nut-free and made with wholesome ingredients
 - Coffee drinks can be customized with alternative milks (almond, oat, soy)
 - Ask our staff about any dietary restrictions or allergies
@@ -120,22 +124,22 @@ PARTY PAGE (pages/party.html)
 ================================================================================
 
 HERO SECTION:
-- Title: "Birthday Party"
-- Subtitle: "Make your child's special day unforgettable"
+- Title: "Booking & Payments"
+- Subtitle: "Make your child's special day unforgettable!"
 
 PARTY CTA:
-- Title: "Your Party, Your Way - Let's Make It Special!"
-- Description: "Contact us to check availability and reserve your perfect party date!"
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Button: "Contact Us"
 
 PARTY PACKAGE:
-- Title: "Party Package"
-- Description: "Host an unforgettable party at Little Playroom Cafe, where fun meets convenience! Our party packages offer a stress-free, memorable experience for kids and parents alike."
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 PACKAGE PRICING:
 - Title: "Package Pricing"
-- Base Package: "$450 for 2 hours - 10 Kids (includes birthday child) and 20 Adults"
-- Package Includes: "Kids tickets for play area access, themed tablecloths, decorative balloons, cake display stand (cake not included), themed tableware and cups for 10 children, one 16-inch pizza with 2 toppings (for every 5 children), children's juice and bottled water, tableware and iced tea for adults, help setting up and cleaning up"
+- Base Package: "$400-500 for 2 hours - 10 Kids (includes birthday child) and 20 Adults"
+- Package Includes: "Kids tickets for play area access, Included for $500 package themed tablecloths, decorative balloons, cake display stand (cake not included), themed tableware and cups for 10 children, one 16-inch pizza with 2 toppings (for every 5 children), children's juice and bottled water, tableware and iced tea for adults, help setting up and cleaning up"
 - Additional Children: "$29 per additional child (Includes: $19.99 play pass + $9 for food and drinks)"
 - Additional Adults: "$10 per additional adult"
 - Cancellation Policy: "Full refund: Cancel up to seven business days before your party. Deposit charged: If cancelled less than 5 days before the party"
@@ -151,16 +155,16 @@ PARTY FEATURES:
 - Personalization: "Bring your own cake, cookies, helium balloons, goodie bags, and themed tableware"
 
 AGE RANGE:
-- Title: "Perfect for Ages 1-10"
-- Description: "Our playground is suitable for children up to 10 years old or 58" tall. Our parties are designed to accommodate children between 2 - 7 years old, with age-appropriate activities and play areas."
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 TIME SLOTS:
-- Title: "Party Times (Looking to book outside our posted hours? Call us!)"
+- Title: "Booking & Payments"
 - Morning Party: "10:00 AM - 12:00 PM - Perfect for younger children"
 - Evening Party: "4:30 PM - 6:30 PM - Great for older children"
 
 IMPORTANT DETAILS:
-- Title: "Important Details"
+- Title: "Booking & Payments"
 - Grip socks required for kids; regular socks for adults
 - $150 non-refundable deposit required at booking
 - Final guest count and food orders due the Monday before your event
@@ -169,7 +173,7 @@ IMPORTANT DETAILS:
 - Additional party time available with advance notice and upon availability
 
 FOOD ADD-ONS:
-- Title: "Food Add-Ons"
+- Title: "Booking & Payments"
 - Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 BOOKING & PAYMENTS:
@@ -179,16 +183,16 @@ BOOKING & PAYMENTS:
 - Your party host will call the week of the party to confirm final details
 
 ADDITIONAL DECORATION SERVICES:
-- Title: "Additional Decoration Services"
-- Description: "Custom decor is available upon request with a minimum of 4 weeks' notice."
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Photo Booth Setup: "$75 - Professional photo booth with props and backdrop"
 - Music & Sound System: "$50 - Background music and sound system setup"
 - Cake Table Setup: "$40 - Elegant cake table with decorations"
 - Gift Table Setup: "$30 - Decorated gift table with signage"
 
 DECORATION BOOKING:
-- Title: "Book Your Decoration Package"
-- Description: "Ready to make your party magical? Fill out the form below to book your decoration package along with your party."
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - What's Included:
   * Professional setup and takedown
   * All decorations and props
@@ -200,11 +204,11 @@ CONTACT PAGE (pages/contact.html)
 ================================================================================
 
 HERO SECTION:
-- Title: "Contact Us"
-- Subtitle: "We'd love to hear from you"
+- Title: "Booking & Payments"
+- Subtitle: "Make your child's special day unforgettable!"
 
 CONTACT FORM:
-- Title: "Send us a Message"
+- Title: "Booking & Payments"
 - Subject options:
   * General Inquiry
   * Birthday Party Booking
@@ -213,7 +217,7 @@ CONTACT FORM:
   * Feedback
 
 CONTACT INFO:
-- Title: "Get in Touch"
+- Title: "Booking & Payments"
 - Address: "7956 Tree Lane, Madison, WI 53717"
 - Email: "playroommadison@gmail.com"
 - Hours:
@@ -222,22 +226,22 @@ CONTACT INFO:
   * Sun: 9:30 AM - 8:00 PM
 
 SOCIAL MEDIA:
-- Title: "Follow Us"
+- Title: "Booking & Payments"
 - Facebook: "https://www.facebook.com/share/176CcYP9hd/?mibextid=wwXIfr"
 - Instagram: "https://www.instagram.com/littleplayroom_cafe/profilecard/?igsh=MXhhZnFldG4zZ2du"
 - TikTok: "https://www.tiktok.com/@littleplayroomcafe?_t=ZP-8ydQzYplgul&_r=1"
 
 MAP SECTION:
-- Title: "Find Us"
+- Title: "Booking & Payments"
 
 ================================================================================
 RULES PAGE (pages/rules.html)
 ================================================================================
 
 HERO SECTION:
-- Title: "Rules & Guidelines"
-- Subtitle: "Keeping Everyone Safe & Happy"
-- Description: "Please review our rules to ensure a safe and enjoyable experience for all guests"
+- Title: "Booking & Payments"
+- Subtitle: "Make your child's special day unforgettable!"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 SAFETY RULES:
 - Age Restrictions: "Playground suitable for children up to 10 years old or 58" tall"
@@ -271,13 +275,13 @@ HEALTH & SAFETY:
 - First Aid: "First aid kit is available at the front desk. Please report any accidents to staff immediately."
 
 WAIVER REMINDER:
-- Title: "Waiver Required"
-- Description: "All guests must complete a waiver before entering the play areas. This helps us ensure everyone's safety and provides important emergency contact information."
-- Button: "Complete Waiver"
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Button: "Contact Us"
 
 CONTACT FOR QUESTIONS:
-- Title: "Questions About Our Rules?"
-- Description: "If you have any questions about our rules or need clarification, please don't hesitate to contact us."
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Button: "Contact Us"
 
 ================================================================================
@@ -285,13 +289,13 @@ PARTNERSHIP PAGE (pages/partnership.html)
 ================================================================================
 
 HERO SECTION:
-- Title: "Partnership Opportunities"
-- Subtitle: "Expand the Little Playroom Cafe Experience"
-- Description: "Join us in bringing safe, fun, and educational play spaces to more communities"
+- Title: "Booking & Payments"
+- Subtitle: "Make your child's special day unforgettable!"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 PARTNERSHIP CONTENT:
-- Title: "Looking for Partnership with Little Playroom Cafe"
-- Description: "We are a family-friendly indoor playground and cafe based in Madison, WI, offering a safe, fun, and cozy space for children and parents. We are now seeking partners to expand this concept to new locations."
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 WE CAN PROVIDE:
 - Our brand & concept
@@ -304,8 +308,8 @@ WE WELCOME PARTNERS WHO:
 - Want to grow together with a proven business model
 
 PARTNERSHIP FORM:
-- Title: "Interested in Partnership?"
-- Description: "Fill out the form below and we'll get back to you within 24 hours."
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Investment Capacity options:
   * Under $100,000
   * $100,000 - $250,000
@@ -321,11 +325,11 @@ WAIVER PAGE (pages/waiver.html)
 ================================================================================
 
 HERO SECTION:
-- Title: "Required Waiver"
-- Description: "All participants must complete this waiver before entering the play area"
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 WAIVER CONTENT:
-- Title: "Participant Waiver & Release Form"
+- Title: "Booking & Payments"
 - Company: "LITTLE PLAYROOM CAFE LLC"
 - Address: "7956 Tree Lane, Madison WI 53717"
 - Document Type: "LIABILITY WAIVER AND HOLD HARMLESS AGREEMENT"
@@ -343,7 +347,7 @@ LEGAL DISCLAIMER:
 - Severability: "This document is intended to be as broad and inclusive as is permitted by the laws of the State of Wisconsin and if any provision (or a part of any provision) contained herein is deemed to be invalid, the balance of the provisions shall continue in full legal force and effect, notwithstanding such invalidity."
 
 FINAL NOTICE:
-- "I HAVE READ THIS AGREEMENT THOROUGHLY. I UNDERSTAND THAT BY SIGNING THIS AGREEMENT, I AM WAIVING CERTAIN LEGAL RIGHTS, WHICH I, THE PARTICIPANT(S), AND OUR HEIRS, ASSIGNEES, EXECUTORS, ADMINISTRATORS, AND PERSONAL REPRESENTATIVES, HAVE AGAINST THE RELEASEES, INCLUDING THE RIGHT TO SUE. I HAVE BEEN AFFORDED THE OPPORTUNITY TO REFUSE THE PARTICIPANT(S) PARTICIPATION IN THE ACTIVITIES, BUT I HAVE FREELY AND VOLUNTARILY ELECTED TO SIGN THIS AGREEMENT."
+- "I HAVE READ THIS AGREEMENT THOROUGHly. I UNDERSTAND THAT BY SIGNING THIS AGREEMENT, I AM WAIVING CERTAIN LEGAL RIGHTS, WHICH I, THE PARTICIPANT(S), AND OUR HEIRS, ASSIGNEES, EXECUTORS, ADMINISTRATORS, AND PERSONAL REPRESENTATIVES, HAVE AGAINST THE RELEASEES, INCLUDING THE RIGHT TO SUE. I HAVE BEEN AFFORDED THE OPPORTUNITY TO REFUSE THE PARTICIPANT(S) PARTICIPATION IN THE ACTIVITIES, BUT I HAVE FREELY AND VOLUNTARILY ELECTED TO SIGN THIS AGREEMENT."
 
 WAIVER FORM FIELDS:
 - Participant Name
@@ -373,9 +377,9 @@ GALLERY PAGE (pages/gallery.html)
 ================================================================================
 
 HERO SECTION:
-- Title: "Photo Gallery"
-- Subtitle: "Take a Look Around Our Space"
-- Description: "Explore our play areas, party spaces, and cafe through these photos"
+- Title: "Booking & Payments"
+- Subtitle: "Make your child's special day unforgettable!"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 GALLERY ITEMS:
 - Main Playground: "Our spacious indoor playground with climbing structures"
@@ -386,7 +390,7 @@ GALLERY ITEMS:
 - Birthday Celebrations: "Memorable moments from our parties"
 - Party Area: "Spacious party zones for celebrations"
 - Cafe Lounge: "Comfortable seating area for parents"
-- Food & Beverages: "Delicious treats and drinks for everyone"
+- Food & Beverages: "Cheese pizzas, organic juice boxes, iced water, and iced tea (One 16" pizza per 5 children)"
 - Dining Area: "Family-friendly dining space"
 - Menu Display: "Our delicious food and beverage options"
 - Special Events: "Holiday celebrations and themed events"
@@ -398,8 +402,8 @@ GALLERY ITEMS:
 - Custom Themes: "Personalized decoration themes"
 
 GALLERY CTA:
-- Title: "Ready to Visit?"
-- Description: "See our space in person and experience the magic of Little Playroom Cafe"
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Buttons: "Contact Us", "Book a Party"
 
 ================================================================================
@@ -433,10 +437,10 @@ SOCIAL MEDIA LINKS:
 
 META DESCRIPTIONS:
 - Home: "A modern kids cafe and play space in Madison, WI where children can play, learn, and party in a safe and fun environment."
-- About: "Learn about Little Playroom Cafe - a unique play space and cafe in Madison, WI designed for families."
-- Menu: "View our delicious menu featuring coffee, snacks, and kid-friendly options at Little Playroom Cafe in Madison, WI."
+- About: "Learn about our cafe"
+- Menu: "View our food & drinks"
 - Party: "Book your child's birthday party at Little Playroom Cafe in Madison, WI. Stress-free celebrations with all-inclusive packages and decoration services."
-- Contact: "Get in touch with Little Playroom Cafe in Madison, WI. Contact us for questions, bookings, or general inquiries."
+- Contact: "Get in touch with us"
 - Waiver: "Sign the required waiver for Little Playroom Cafe. All participants must complete this form before entering the play area."
 
 ================================================================================
@@ -454,8 +458,8 @@ WAIVER FORM:
 - Embedded URL: "https://docs.google.com/forms/d/e/1FAIpQLSf_MCkZ95evnMw7oDOgIHocWRAnmq0vNKyPIJMu4tkpy5WxHA/viewform?embedded=true"
 
 PARTY BOOKING FORM:
-- Google Form ID: "1FAIpQLSeGu0rWuV7PYVh-PmQ-9I3s-BQfVvN85ACoAZIVcrFdE5mBPQ"
-- Embedded URL: "https://docs.google.com/forms/d/e/1FAIpQLSeGu0rWuV7PYVh-PmQ-9I3s-BQfVvN85ACoAZIVcrFdE5mBPQ/viewform?embedded=true"
+- Google Form ID: "1FAIpQLSeGu0rWuV7PYVh-PmQ9I3s-BQfVvN85ACoAZIVcrFdE5mBPQ"
+- Embedded URL: "https://docs.google.com/forms/d/e/1FAIpQLSeGu0rWuV7PYVh-PmQ9I3s-BQfVvN85ACoAZIVcrFdE5mBPQ/viewform?embedded=true"
 
 PARTNERSHIP FORM:
 - Google Form ID: "1FAIpQLScso-yXS5OzkFTqTV5dAIJSRN45xIbkp95AdaLkQDNU2QwujQ"
