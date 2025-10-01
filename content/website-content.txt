@@ -12,7 +12,7 @@ HERO SECTION:
 - Welcome text: "Welcome to"
 - Main title: "About Little Playroom Cafe"
 - Subtitle: "Make your child's special day unforgettable!"
-- Description: Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event.
+- Description: 
                         Day Pass (Same Day Re-entry Allowed): 
                         $19.99 per child; $14.99 2nd child; $9.99 3rd child
                         Monthly Pass (one child): $149 (Unlimited Play)
@@ -27,7 +27,7 @@ QUICK NAVIGATION:
 
 TAGLINE SECTION:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 
 ABOUT PREVIEW:
 - Title: "Booking & Payments"
@@ -59,7 +59,7 @@ ABOUT CONTENT:
 
 MISSION SECTION:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 
 WHAT MAKES US SPECIAL:
 - Title: "Booking & Payments"
@@ -129,12 +129,12 @@ HERO SECTION:
 
 PARTY CTA:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 - Button: "Contact Us"
 
 PARTY PACKAGE:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 
 PACKAGE PRICING:
 - Title: "Booking & Payments"
@@ -156,7 +156,7 @@ PARTY FEATURES:
 
 AGE RANGE:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 
 TIME SLOTS:
 - Title: "Booking & Payments"
@@ -174,7 +174,7 @@ IMPORTANT DETAILS:
 
 FOOD ADD-ONS:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 
 BOOKING & PAYMENTS:
 - Title: "Booking & Payments"
@@ -184,7 +184,7 @@ BOOKING & PAYMENTS:
 
 ADDITIONAL DECORATION SERVICES:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 - Photo Booth Setup: "$75 - Professional photo booth with props and backdrop"
 - Music & Sound System: "$50 - Background music and sound system setup"
 - Cake Table Setup: "$40 - Elegant cake table with decorations"
@@ -192,7 +192,7 @@ ADDITIONAL DECORATION SERVICES:
 
 DECORATION BOOKING:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 - What's Included:
   * Professional setup and takedown
   * All decorations and props
@@ -241,7 +241,7 @@ RULES PAGE (pages/rules.html)
 HERO SECTION:
 - Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 
 SAFETY RULES:
 - Age Restrictions: "Playground suitable for children up to 10 years old or 58" tall"
@@ -276,12 +276,12 @@ HEALTH & SAFETY:
 
 WAIVER REMINDER:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 - Button: "Contact Us"
 
 CONTACT FOR QUESTIONS:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 - Button: "Contact Us"
 
 ================================================================================
@@ -291,11 +291,11 @@ PARTNERSHIP PAGE (pages/partnership.html)
 HERO SECTION:
 - Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 
 PARTNERSHIP CONTENT:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 
 WE CAN PROVIDE:
 - Our brand & concept
@@ -309,7 +309,7 @@ WE WELCOME PARTNERS WHO:
 
 PARTNERSHIP FORM:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 - Investment Capacity options:
   * Under $100,000
   * $100,000 - $250,000
@@ -326,7 +326,7 @@ WAIVER PAGE (pages/waiver.html)
 
 HERO SECTION:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 
 WAIVER CONTENT:
 - Title: "Booking & Payments"
@@ -379,7 +379,7 @@ GALLERY PAGE (pages/gallery.html)
 HERO SECTION:
 - Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 
 GALLERY ITEMS:
 - Main Playground: "Our spacious indoor playground with climbing structures"
@@ -403,7 +403,7 @@ GALLERY ITEMS:
 
 GALLERY CTA:
 - Title: "Booking & Payments"
-- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
+- Description: ""
 - Buttons: "Contact Us", "Book a Party"
 
 ================================================================================
