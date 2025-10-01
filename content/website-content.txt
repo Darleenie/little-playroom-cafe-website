@@ -12,7 +12,7 @@ HERO SECTION:
 - Welcome text: "Welcome to"
 - Main title: "About Little Playroom Cafe"
 - Subtitle: "Make your child's special day unforgettable!"
-- Description: 
+- Description: Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event.
                         Day Pass (Same Day Re-entry Allowed): 
                         $19.99 per child; $14.99 2nd child; $9.99 3rd child
                         Monthly Pass (one child): $149 (Unlimited Play)
@@ -26,17 +26,17 @@ QUICK NAVIGATION:
 - Contact: "Get in touch with us"
 
 TAGLINE SECTION:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 ABOUT PREVIEW:
-- Title: ""
+- Title: "Booking & Payments"
 - Description 1: "Unlike traditional playgrounds or cafes, we offer a hybrid experience that caters to the whole family. Our play areas are thoughtfully designed with age-appropriate equipment, ensuring safety while promoting development. Meanwhile, our cafe serves delicious, healthy options that both kids and adults will love."
 - Description 2: "We also specialize in birthday parties and special events, providing a stress-free celebration experience with our all-inclusive packages. From themed decorations to catering, we handle every detail so you can focus on making memories."
 - CTA button: "View Full Gallery!"
 
 GALLERY PREVIEW:
-- Title: ""
+- Title: "Booking & Payments"
 - Playground overlay: "Playground"
 - Learning Zone overlay: "Learning Zone"
 - Cafe overlay: "Cafe"
@@ -47,7 +47,7 @@ ABOUT PAGE (pages/about.html)
 ================================================================================
 
 HERO SECTION:
-- Title: ""
+- Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
 
 ABOUT CONTENT:
@@ -58,16 +58,16 @@ ABOUT CONTENT:
 - Description 4: "Whether it's for everyday fun, quality family time, birthday parties, or group events, Little Playroom Cafe is your perfect destination for kids and parents alike."
 
 MISSION SECTION:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 WHAT MAKES US SPECIAL:
-- Title: ""
+- Title: "Booking & Payments"
 - Description 1: "Unlike traditional playgrounds or cafes, we offer a hybrid experience that caters to the whole family. Our play areas are thoughtfully designed with age-appropriate equipment, ensuring safety while promoting development. Meanwhile, our cafe serves delicious, healthy options that both kids and adults will love."
 - Description 2: "We also specialize in birthday parties and special events, providing a stress-free celebration experience with our all-inclusive packages. From themed decorations to catering, we handle every detail so you can focus on making memories."
 
 VALUES:
-- Title: ""
+- Title: "Booking & Payments"
 - Safety First: "All our equipment meets the highest safety standards"
 - Community Focus: "We're building a space where families connect"
 - Quality Service: "Every visit should exceed expectations"
@@ -81,15 +81,15 @@ MENU PAGE (pages/menu.html)
 ================================================================================
 
 HERO SECTION:
-- Title: ""
+- Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
 
 COFFEE MENU:
-- Title: ""
+- Title: "Booking & Payments"
 - Drinks: Americano, Caff? Latte, Mocha Latte, Matcha Latte, Chai Latte, Espresso, Hot Chocolate, Hot Tea, Cappuccino, Frappuccino (caramel, vanilla, chocolate, white chocolate)
 
 KIDS SNACK MENU:
-- Title: ""
+- Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
 
 Fresh & Simple:
@@ -114,7 +114,7 @@ Dairy / Protein:
 - Air-Popped Popcorn (Lightly Salted, Nut-Free)
 
 MENU INFORMATION:
-- Title: ""
+- Title: "Booking & Payments"
 - All our kids snacks are nut-free and made with wholesome ingredients
 - Coffee drinks can be customized with alternative milks (almond, oat, soy)
 - Ask our staff about any dietary restrictions or allergies
@@ -124,20 +124,20 @@ PARTY PAGE (pages/party.html)
 ================================================================================
 
 HERO SECTION:
-- Title: ""
+- Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
 
 PARTY CTA:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Button: "Contact Us"
 
 PARTY PACKAGE:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 PACKAGE PRICING:
-- Title: ""
+- Title: "Booking & Payments"
 - Base Package: "$400-500 for 2 hours - 10 Kids (includes birthday child) and 20 Adults"
 - Package Includes: "Kids tickets for play area access, Included for $500 package themed tablecloths, decorative balloons, cake display stand (cake not included), themed tableware and cups for 10 children, one 16-inch pizza with 2 toppings (for every 5 children), children's juice and bottled water, tableware and iced tea for adults, help setting up and cleaning up"
 - Additional Children: "$29 per additional child (Includes: $19.99 play pass + $9 for food and drinks)"
@@ -155,16 +155,16 @@ PARTY FEATURES:
 - Personalization: "Bring your own cake, cookies, helium balloons, goodie bags, and themed tableware"
 
 AGE RANGE:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 TIME SLOTS:
-- Title: ""
+- Title: "Booking & Payments"
 - Morning Party: "10:00 AM - 12:00 PM - Perfect for younger children"
 - Evening Party: "4:30 PM - 6:30 PM - Great for older children"
 
 IMPORTANT DETAILS:
-- Title: ""
+- Title: "Booking & Payments"
 - Grip socks required for kids; regular socks for adults
 - $150 non-refundable deposit required at booking
 - Final guest count and food orders due the Monday before your event
@@ -173,26 +173,26 @@ IMPORTANT DETAILS:
 - Additional party time available with advance notice and upon availability
 
 FOOD ADD-ONS:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 BOOKING & PAYMENTS:
-- Title: ""
+- Title: "Booking & Payments"
 - 10% gratuity added to all party bill
 - Balance due on the day of your event
 - Your party host will call the week of the party to confirm final details
 
 ADDITIONAL DECORATION SERVICES:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Photo Booth Setup: "$75 - Professional photo booth with props and backdrop"
 - Music & Sound System: "$50 - Background music and sound system setup"
 - Cake Table Setup: "$40 - Elegant cake table with decorations"
 - Gift Table Setup: "$30 - Decorated gift table with signage"
 
 DECORATION BOOKING:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - What's Included:
   * Professional setup and takedown
   * All decorations and props
@@ -204,11 +204,11 @@ CONTACT PAGE (pages/contact.html)
 ================================================================================
 
 HERO SECTION:
-- Title: ""
+- Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
 
 CONTACT FORM:
-- Title: ""
+- Title: "Booking & Payments"
 - Subject options:
   * General Inquiry
   * Birthday Party Booking
@@ -217,7 +217,7 @@ CONTACT FORM:
   * Feedback
 
 CONTACT INFO:
-- Title: ""
+- Title: "Booking & Payments"
 - Address: "7956 Tree Lane, Madison, WI 53717"
 - Email: "playroommadison@gmail.com"
 - Hours:
@@ -226,22 +226,22 @@ CONTACT INFO:
   * Sun: 9:30 AM - 8:00 PM
 
 SOCIAL MEDIA:
-- Title: ""
+- Title: "Booking & Payments"
 - Facebook: "https://www.facebook.com/share/176CcYP9hd/?mibextid=wwXIfr"
 - Instagram: "https://www.instagram.com/littleplayroom_cafe/profilecard/?igsh=MXhhZnFldG4zZ2du"
 - TikTok: "https://www.tiktok.com/@littleplayroomcafe?_t=ZP-8ydQzYplgul&_r=1"
 
 MAP SECTION:
-- Title: ""
+- Title: "Booking & Payments"
 
 ================================================================================
 RULES PAGE (pages/rules.html)
 ================================================================================
 
 HERO SECTION:
-- Title: ""
+- Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
-- Description: ""
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 SAFETY RULES:
 - Age Restrictions: "Playground suitable for children up to 10 years old or 58" tall"
@@ -275,13 +275,13 @@ HEALTH & SAFETY:
 - First Aid: "First aid kit is available at the front desk. Please report any accidents to staff immediately."
 
 WAIVER REMINDER:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Button: "Contact Us"
 
 CONTACT FOR QUESTIONS:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Button: "Contact Us"
 
 ================================================================================
@@ -289,13 +289,13 @@ PARTNERSHIP PAGE (pages/partnership.html)
 ================================================================================
 
 HERO SECTION:
-- Title: ""
+- Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
-- Description: ""
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 PARTNERSHIP CONTENT:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 WE CAN PROVIDE:
 - Our brand & concept
@@ -308,8 +308,8 @@ WE WELCOME PARTNERS WHO:
 - Want to grow together with a proven business model
 
 PARTNERSHIP FORM:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Investment Capacity options:
   * Under $100,000
   * $100,000 - $250,000
@@ -325,11 +325,11 @@ WAIVER PAGE (pages/waiver.html)
 ================================================================================
 
 HERO SECTION:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 WAIVER CONTENT:
-- Title: ""
+- Title: "Booking & Payments"
 - Company: "LITTLE PLAYROOM CAFE LLC"
 - Address: "7956 Tree Lane, Madison WI 53717"
 - Document Type: "LIABILITY WAIVER AND HOLD HARMLESS AGREEMENT"
@@ -377,9 +377,9 @@ GALLERY PAGE (pages/gallery.html)
 ================================================================================
 
 HERO SECTION:
-- Title: ""
+- Title: "Booking & Payments"
 - Subtitle: "Make your child's special day unforgettable!"
-- Description: ""
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 GALLERY ITEMS:
 - Main Playground: "Our spacious indoor playground with climbing structures"
@@ -402,8 +402,8 @@ GALLERY ITEMS:
 - Custom Themes: "Personalized decoration themes"
 
 GALLERY CTA:
-- Title: ""
-- Description: ""
+- Title: "Booking & Payments"
+- Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 - Buttons: "Contact Us", "Book a Party"
 
 ================================================================================
