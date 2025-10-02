@@ -95,10 +95,14 @@ class SimpleContentLoader {
         }
         
         // Extract description (handle multi-line descriptions)
-        const descMatch = text.match(/- Description: "([\s\S]*?)"\s*\n\s*-/);
-        if (descMatch) {
-            content.description = descMatch[1].trim().replace(/\n\s+/g, '<br>');
-            console.log('Found description:', content.description);
+        // Look for description in HERO SECTION specifically
+        const heroSectionMatch = text.match(/HERO SECTION:([\s\S]*?)(?=QUICK NAVIGATION:|$)/);
+        if (heroSectionMatch) {
+            const descMatch = heroSectionMatch[1].match(/- Description: "([\s\S]*?)"\s*\n/);
+            if (descMatch) {
+                content.description = descMatch[1].trim().replace(/\n\s+/g, '<br>');
+                console.log('Found hero description:', content.description);
+            }
         }
         
         // Extract CTA button
