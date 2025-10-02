@@ -10,9 +10,9 @@ HOME PAGE (index.html)
 
 HERO SECTION:
 - Welcome text: "Welcome to"
-- Main title: "Little Playroom Cafe"
+- Main title: "About Little Playroom Cafe"
 - Subtitle: "Make your child's special day unforgettable!"
-- Description: "A safe and fun environment where children can play, learn, and create memories.
+- Description: Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event.
                         Day Pass (Same Day Re-entry Allowed): 
                         $19.99 per child; $14.99 2nd child; $9.99 3rd child
                         Monthly Pass (one child): $149 (Unlimited Play)
@@ -86,7 +86,7 @@ HERO SECTION:
 
 COFFEE MENU:
 - Title: "Booking & Payments"
-- Drinks: Americano, Caffè Latte, Mocha Latte, Matcha Latte, Chai Latte, Espresso, Hot Chocolate, Hot Tea, Cappuccino, Frappuccino (caramel, vanilla, chocolate, white chocolate)
+- Drinks: Americano, Caff? Latte, Mocha Latte, Matcha Latte, Chai Latte, Espresso, Hot Chocolate, Hot Tea, Cappuccino, Frappuccino (caramel, vanilla, chocolate, white chocolate)
 
 KIDS SNACK MENU:
 - Title: "Booking & Payments"
@@ -137,7 +137,7 @@ PARTY PACKAGE:
 - Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 PACKAGE PRICING:
-- Title: "Package Pricing"
+- Title: "Booking & Payments"
 - Base Package: "$400-500 for 2 hours - 10 Kids (includes birthday child) and 20 Adults"
 - Package Includes: "Kids tickets for play area access, Included for $500 package themed tablecloths, decorative balloons, cake display stand (cake not included), themed tableware and cups for 10 children, one 16-inch pizza with 2 toppings (for every 5 children), children's juice and bottled water, tableware and iced tea for adults, help setting up and cleaning up"
 - Additional Children: "$29 per additional child (Includes: $19.99 play pass + $9 for food and drinks)"
@@ -169,7 +169,7 @@ IMPORTANT DETAILS:
 - $150 non-refundable deposit required at booking
 - Final guest count and food orders due the Monday before your event
 - Playground suitable for children up to 10 years old or 58" tall
-- No piñatas, balloon garlands, or wall hangings allowed
+- No pi?atas, balloon garlands, or wall hangings allowed
 - Additional party time available with advance notice and upon availability
 
 FOOD ADD-ONS:
@@ -221,8 +221,8 @@ CONTACT INFO:
 - Address: "7956 Tree Lane, Madison, WI 53717"
 - Email: "playroommadison@gmail.com"
 - Hours:
-  * Mon–Thu: 9:30 AM - 8:00 PM
-  * Fri–Sat: 9:30 AM - 8:30 PM
+  * Mon?Thu: 9:30 AM - 8:00 PM
+  * Fri?Sat: 9:30 AM - 8:30 PM
   * Sun: 9:30 AM - 8:00 PM
 
 SOCIAL MEDIA:
@@ -258,7 +258,7 @@ FOOD & BEVERAGE:
 PARTY RULES:
 - Booking Requirements: "Parties must be booked at least 2 weeks in advance"
 - Deposit: "$150 non-refundable deposit required at booking"
-- Decorations: "No piñatas, balloon garlands, or wall hangings allowed"
+- Decorations: "No pi?atas, balloon garlands, or wall hangings allowed"
 - Time Limits: "Parties are limited to 2 hours plus 30 minutes setup and 15 minutes cleanup"
 - Cancellation: "Full refund: Cancel up to seven business days before your party. Deposit charged: If cancelled less than 5 days before the party"
 
@@ -422,12 +422,12 @@ NAVIGATION MENU:
 - Contact
 
 COMPANY INFORMATION:
-- Company Name: "LITTLE PLAYROOM CAFÉ"
+- Company Name: "LITTLE PLAYROOM CAF?"
 - Address: "7956 Tree Lane, Madison, WI 53717"
 - Email: "playroommadison@gmail.com"
 - Hours:
-  * Mon–Thu: 9:30 AM - 8:00 PM
-  * Fri–Sat: 9:30 AM - 8:30 PM
+  * Mon?Thu: 9:30 AM - 8:00 PM
+  * Fri?Sat: 9:30 AM - 8:30 PM
   * Sun: 9:30 AM - 8:00 PM
 
 SOCIAL MEDIA LINKS:
