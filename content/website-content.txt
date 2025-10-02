@@ -86,7 +86,7 @@ HERO SECTION:
 
 COFFEE MENU:
 - Title: "Booking & Payments"
-- Drinks: Americano, Caff? Latte, Mocha Latte, Matcha Latte, Chai Latte, Espresso, Hot Chocolate, Hot Tea, Cappuccino, Frappuccino (caramel, vanilla, chocolate, white chocolate)
+- Drinks: Americano, Caffe Latte, Mocha Latte, Matcha Latte, Chai Latte, Espresso, Hot Chocolate, Hot Tea, Cappuccino, Frappuccino (caramel, vanilla, chocolate, white chocolate)
 
 KIDS SNACK MENU:
 - Title: "Booking & Payments"
@@ -169,7 +169,7 @@ IMPORTANT DETAILS:
 - $150 non-refundable deposit required at booking
 - Final guest count and food orders due the Monday before your event
 - Playground suitable for children up to 10 years old or 58" tall
-- No pi?atas, balloon garlands, or wall hangings allowed
+- No pinatas, balloon garlands, or wall hangings allowed
 - Additional party time available with advance notice and upon availability
 
 FOOD ADD-ONS:
@@ -221,8 +221,8 @@ CONTACT INFO:
 - Address: "7956 Tree Lane, Madison, WI 53717"
 - Email: "playroommadison@gmail.com"
 - Hours:
-  * Mon?Thu: 9:30 AM - 8:00 PM
-  * Fri?Sat: 9:30 AM - 8:30 PM
+  * Mon-Thu: 9:30 AM - 8:00 PM
+  * Fri-Sat: 9:30 AM - 8:30 PM
   * Sun: 9:30 AM - 8:00 PM
 
 SOCIAL MEDIA:
@@ -258,7 +258,7 @@ FOOD & BEVERAGE:
 PARTY RULES:
 - Booking Requirements: "Parties must be booked at least 2 weeks in advance"
 - Deposit: "$150 non-refundable deposit required at booking"
-- Decorations: "No pi?atas, balloon garlands, or wall hangings allowed"
+- Decorations: "No pinatas, balloon garlands, or wall hangings allowed"
 - Time Limits: "Parties are limited to 2 hours plus 30 minutes setup and 15 minutes cleanup"
 - Cancellation: "Full refund: Cancel up to seven business days before your party. Deposit charged: If cancelled less than 5 days before the party"
 
@@ -422,12 +422,12 @@ NAVIGATION MENU:
 - Contact
 
 COMPANY INFORMATION:
-- Company Name: "LITTLE PLAYROOM CAF?"
+- Company Name: "LITTLE PLAYROOM CAFE"
 - Address: "7956 Tree Lane, Madison, WI 53717"
 - Email: "playroommadison@gmail.com"
 - Hours:
-  * Mon?Thu: 9:30 AM - 8:00 PM
-  * Fri?Sat: 9:30 AM - 8:30 PM
+  * Mon-Thu: 9:30 AM - 8:00 PM
+  * Fri-Sat: 9:30 AM - 8:30 PM
   * Sun: 9:30 AM - 8:00 PM
 
 SOCIAL MEDIA LINKS:
