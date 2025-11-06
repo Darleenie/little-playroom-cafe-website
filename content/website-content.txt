@@ -149,7 +149,7 @@ PACKAGE PRICING:
 PARTY FEATURES:
 - Admission & Grip Socks: "Admission and grip socks included for each child"
 - Dedicated Space: "Designated party space for 2 hours with 30 minutes setup and 15 minutes cleanup time"
-- Food & Beverages: "Cheese pizzas, organic juice boxes, iced water, and iced tea (One 16" pizza per 5 children)"
+- Food & Beverages: "Cheese pizzas, organic juice boxes, iced water, and iced tea (One per 5 children)"
 - Colorful Tableware: "Colorful tableware for kids included"
 - Dedicated Host: "Dedicated party host for setup, assistance, and cleanup"
 - Personalization: "Bring your own cake, cookies, helium balloons, goodie bags, and themed tableware"
@@ -390,7 +390,7 @@ GALLERY ITEMS:
 - Birthday Celebrations: "Memorable moments from our parties"
 - Party Area: "Spacious party zones for celebrations"
 - Cafe Lounge: "Comfortable seating area for parents"
-- Food & Beverages: "Cheese pizzas, organic juice boxes, iced water, and iced tea (One 16" pizza per 5 children)"
+- Food & Beverages: "Cheese pizzas, organic juice boxes, iced water, and iced tea (One per 5 children)"
 - Dining Area: "Family-friendly dining space"
 - Menu Display: "Our delicious food and beverage options"
 - Special Events: "Holiday celebrations and themed events"
