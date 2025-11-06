@@ -12,11 +12,7 @@ HERO SECTION:
 - Welcome text: "Welcome to"
 - Main title: "About Little Playroom Cafe"
 - Subtitle: "Make your child's special day unforgettable!"
-- Description: Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event.
-                        Day Pass (Same Day Re-entry Allowed): 
-                        $19.99 per child; $14.99 2nd child; $9.99 3rd child
-                        Monthly Pass (one child): $149 (Unlimited Play)
-                        Family Monthly Pass (up to 3 children): $249"
+- Description: Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event.                        Day Pass (Same Day Re-entry Allowed):                         $19.99 per child; $14.99 2nd child; $9.99 3rd child                        Monthly Pass (one child): $149 (Unlimited Play)                        Family Monthly Pass (up to 3 children): $249"
 - CTA button: "View Full Gallery!"
 
 QUICK NAVIGATION:
