@@ -184,7 +184,7 @@ ADDITIONAL DECORATION SERVICES:
 - Photo Booth Setup: "$75 - Professional photo booth with props and backdrop"
 - Music & Sound System: "$50 - Background music and sound system setup"
 - Cake Table Setup: "$40 - Elegant cake table with decorations"
-- Gift Table Setup: "$30 - Decorated gift table with signage"
+- Gift Table Setup: ""
 
 DECORATION BOOKING:
 - Title: "Booking & Payments"
