@@ -9,7 +9,7 @@ HOME PAGE (index.html)
 ================================================================================
 
 HERO SECTION:
-- Welcome text: "WELCOME to"
+- Welcome text: "Welcome to"
 - Main title: "About Little Playroom Cafe"
 - Subtitle: "Make your child's special day unforgettable!"
 - Description: Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event.
@@ -193,7 +193,7 @@ ADDITIONAL DECORATION SERVICES:
 DECORATION BOOKING:
 - Title: "Booking & Payments"
 - Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
-- What's Included: 
+- What's Included: * Professional setup and takedown * All decorations and props * 2-hour setup time * Consultation before the event
   * Professional setup and takedown
   * All decorations and props
   * 2-hour setup time
@@ -209,7 +209,7 @@ HERO SECTION:
 
 CONTACT FORM:
 - Title: "Booking & Payments"
-- Subject options: 
+- Subject options: * General Inquiry * Birthday Party Booking * Menu Questions * Hours & Pricing * Feedback
   * General Inquiry
   * Birthday Party Booking
   * Menu Questions
@@ -220,7 +220,7 @@ CONTACT INFO:
 - Title: "Booking & Payments"
 - Address: "7956 Tree Lane, Madison, WI 53717"
 - Email: "playroommadison@gmail.com"
-- Hours: 
+- Hours: * Mon-Thu: 9:30 AM - 8:00 PM * Fri-Sat: 9:30 AM - 8:30 PM * Sun: 9:30 AM - 8:00 PM
   * Mon-Thu: 9:30 AM - 8:00 PM
   * Fri-Sat: 9:30 AM - 8:30 PM
   * Sun: 9:30 AM - 8:00 PM
@@ -310,7 +310,7 @@ WE WELCOME PARTNERS WHO:
 PARTNERSHIP FORM:
 - Title: "Booking & Payments"
 - Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
-- Investment Capacity options: 
+- Investment Capacity options: * Under $100,000 * $100,000 - $250,000 * $250,000 - $500,000 * Over $500,000
   * Under $100,000
   * $100,000 - $250,000
   * $250,000 - $500,000
@@ -425,7 +425,7 @@ COMPANY INFORMATION:
 - Company Name: "LITTLE PLAYROOM CAFE"
 - Address: "7956 Tree Lane, Madison, WI 53717"
 - Email: "playroommadison@gmail.com"
-- Hours: 
+- Hours: * Mon-Thu: 9:30 AM - 8:00 PM * Fri-Sat: 9:30 AM - 8:30 PM * Sun: 9:30 AM - 8:00 PM
   * Mon-Thu: 9:30 AM - 8:00 PM
   * Fri-Sat: 9:30 AM - 8:30 PM
   * Sun: 9:30 AM - 8:00 PM
