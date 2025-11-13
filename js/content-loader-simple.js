@@ -7,6 +7,11 @@ class SimpleContentLoader {
         this.content = null;
         this.currentPage = this.getCurrentPage();
         this.isRefreshing = false;
+        this.htmlContentKeys = new Set([
+            'description',
+            'about_description_1',
+            'about_description_2'
+        ]);
         console.log('SimpleContentLoader initialized for page:', this.currentPage);
     }
 
@@ -72,7 +77,25 @@ class SimpleContentLoader {
     // Simple content parser
     parseContentSimple(text) {
         const content = {};
-        
+
+        const extractSection = (sectionName) => {
+            const sectionRegex = new RegExp(`${sectionName}:([\\s\\S]*?)(?=\\n[A-Z][A-Z\\s&]+:|\\n={3,}|$)`, 'i');
+            const match = text.match(sectionRegex);
+            return match ? match[1] : null;
+        };
+
+        const extractField = (sectionText, fieldLabel) => {
+            if (!sectionText) return null;
+            const fieldRegex = new RegExp(`- ${fieldLabel}: "([\\s\\S]*?)"`, 'i');
+            const match = sectionText.match(fieldRegex);
+            return match ? match[1].trim() : null;
+        };
+
+        const extractMultilineField = (sectionText, fieldLabel) => {
+            const rawValue = extractField(sectionText, fieldLabel);
+            return this.formatMultilineText(rawValue);
+        };
+
         // Extract main title from the content file
         const mainTitleMatch = text.match(/- Main title: "([^"]+)"/);
         if (mainTitleMatch) {
@@ -125,6 +148,34 @@ class SimpleContentLoader {
             content.tagline_description = taglineDescMatch[1];
             console.log('Found tagline description:', content.tagline_description);
         }
+
+        // Extract About Preview section
+        const aboutPreviewSection = extractSection('ABOUT PREVIEW');
+        if (aboutPreviewSection) {
+            const aboutTitle = extractField(aboutPreviewSection, 'Title');
+            if (aboutTitle) {
+                content.about_title = aboutTitle;
+                console.log('Found about title:', content.about_title);
+            }
+
+            const aboutDescription1 = extractMultilineField(aboutPreviewSection, 'Description 1');
+            if (aboutDescription1) {
+                content.about_description_1 = aboutDescription1;
+                console.log('Found about description 1:', content.about_description_1);
+            }
+
+            const aboutDescription2 = extractMultilineField(aboutPreviewSection, 'Description 2');
+            if (aboutDescription2) {
+                content.about_description_2 = aboutDescription2;
+                console.log('Found about description 2:', content.about_description_2);
+            }
+
+            const aboutCta = extractField(aboutPreviewSection, 'CTA button');
+            if (aboutCta) {
+                content.about_cta = aboutCta;
+                console.log('Found about CTA:', content.about_cta);
+            }
+        }
         
         // Extract party page content
         const basePackageMatch = text.match(/- Base Package: "([^"]+)"/);
@@ -140,6 +191,14 @@ class SimpleContentLoader {
         }
         
         return content;
+    }
+
+    formatMultilineText(value) {
+        if (!value) return value;
+        const normalized = value.replace(/\r\n/g, '\n').trim();
+        return normalized
+            .replace(/\n[ \t]*\n/g, '<br><br>')
+            .replace(/\n/g, '<br>');
     }
 
     // Populate the current page with loaded content
@@ -168,11 +227,13 @@ class SimpleContentLoader {
             
             if (contentValue) {
                 // Only update if content has changed
-                const currentContent = element.textContent || element.innerHTML;
+                const currentContent = this.htmlContentKeys.has(contentKey)
+                    ? element.innerHTML
+                    : element.textContent;
                 if (currentContent !== contentValue) {
                     console.log(`Updating ${contentKey} with: ${contentValue}`);
                     // Use innerHTML for description field to support HTML formatting
-                    if (contentKey === 'description') {
+                    if (this.htmlContentKeys.has(contentKey)) {
                         element.innerHTML = contentValue;
                     } else {
                         element.textContent = contentValue;

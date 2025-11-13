@@ -26,10 +26,14 @@ TAGLINE SECTION:
 - Description: "Choose from a variety of pizzas, sandwiches, salads, and more, with final selections due one week before your event."
 
 ABOUT PREVIEW:
-- Title: "Booking & Payments"
-- Description 1: "Unlike traditional playgrounds or cafes, we offer a hybrid experience that caters to the whole family. Our play areas are thoughtfully designed with age-appropriate equipment, ensuring safety while promoting development. Meanwhile, our cafe serves delicious, healthy options that both kids and adults will love."
-- Description 2: "We also specialize in birthday parties and special events, providing a stress-free celebration experience with our all-inclusive packages. From themed decorations to catering, we handle every detail so you can focus on making memories."
-- CTA button: "View Full Gallery!"
+- Title: "About Our Cafe"
+- Description 1: "Little Playroom Cafe is more than just a play space – it's a community hub where families come together to create memories. Our unique concept combines safe play areas with a comfortable cafe environment, allowing parents to relax while their children explore and have fun."
+- Description 2: "We offer age-appropriate play zones, educational activities, and delicious food options for the whole family. Our mission is to provide a welcoming environment where children can develop social skills, creativity, and confidence through play.<br><br>
+                        Day Pass (Same Day Reentry Allowed): 
+                        $19.99 per child; $14.99 2nd child; $9.99 3rd child<br>
+                        Monthly Pass (one child): $149 (Unlimited Play)<br>
+                        Family Monthly Pass (up to 3 children): $249"
+- CTA button: "Learn More"
 
 GALLERY PREVIEW:
 - Title: "Booking & Payments"
