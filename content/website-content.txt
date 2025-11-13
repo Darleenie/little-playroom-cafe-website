@@ -27,7 +27,7 @@ TAGLINE SECTION:
 
 ABOUT PREVIEW:
 - Title: "About Our Cafe"
-- Description 1: "Little Playroom Cafe is more than just a play space – it's a community hub where families come together to create memories. Our unique concept combines safe play areas with a comfortable cafe environment, allowing parents to relax while their children explore and have fun."
+- Description 1: "Little Playroom Cafe is more than just a play space – it's a community hub where families come together to create memories! Our unique concept combines safe play areas with a comfortable cafe environment, allowing parents to relax while their children explore and have fun."
 - Description 2: "We offer age-appropriate play zones, educational activities, and delicious food options for the whole family. Our mission is to provide a welcoming environment where children can develop social skills, creativity, and confidence through play.<br><br>
                         Day Pass (Same Day Reentry Allowed): 
                         $19.99 per child; $14.99 2nd child; $9.99 3rd child<br>
