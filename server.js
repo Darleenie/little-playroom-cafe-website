@@ -21,7 +21,7 @@ const emailConfig = {
         secure: false,
         auth: {
             user: 'playroommadison@gmail.com', // Your Gmail address
-            pass: process.env.GMAIL_APP_PASSWORD || 'ekyhjlmbzujmkamu' // Set this as environment variable
+            pass: process.env.GMAIL_APP_PASSWORD
         }
     }
 };
