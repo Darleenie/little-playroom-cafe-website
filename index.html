@@ -1,178 +1,50 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Little Playroom Cafe - Not Your Ordinary Playground</title>
-    <meta name="description" content="A modern kids cafe and play space in Madison, WI where children can play, learn, and party in a safe and fun environment.">
+    <meta name="robots" content="noindex">
+    <title>Little Playroom Cafe - Temporarily Out of Service</title>
+    <meta name="description" content="The Little Playroom Cafe website is currently out of service.">
     <link rel="icon" type="image/svg+xml" href="images/logo.svg">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="apple-touch-icon" href="images/logo.svg">
-    <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="manifest" href="manifest.json">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 24px 16px;
+            background: #fdf6ee;
+            color: #3a3a3a;
+            text-align: center;
+        }
+        .notice {
+            max-width: 560px;
+            width: 100%;
+            background: #ffffff;
+            border-radius: 20px;
+            padding: 48px 32px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+        }
+        .notice img { width: 96px; height: auto; margin-bottom: 24px; }
+        .notice h2 { font-size: 0.95rem; letter-spacing: 0.12em; font-weight: 600; color: #888; margin-bottom: 12px; }
+        .notice h1 { font-size: 1.9rem; font-weight: 700; margin-bottom: 16px; }
+        .notice p { font-size: 1.05rem; line-height: 1.6; margin-bottom: 12px; }
+        .notice a { color: #d0703a; font-weight: 600; text-decoration: none; }
+        .notice a:hover { text-decoration: underline; }
+    </style>
 </head>
 <body>
-    <!-- Navigation Bar -->
-    <nav class="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">
-                <img src="images/logo.svg" alt="Little Playroom Cafe Logo" class="logo-img">
-                <h2 data-content="company_name">LITTLE PLAYROOM CAFÉ</h2>
-            </div>
-            <ul class="nav-menu">
-                <li><a href="index.html" class="active">Home</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSf_MCkZ95evnMw7oDOgIHocWRAnmq0vNKyPIJMu4tkpy5WxHA/viewform" target="_blank">Waiver</a></li>
-                <li><a href="pages/about.html">About</a></li>
-                <li><a href="pages/menu.html">Menu</a></li>
-                <li><a href="pages/party.html">Party</a></li>
-                <li><a href="pages/gallery.html">Gallery</a></li>
-                <li><a href="pages/rules.html">Rules</a></li>
-                <li><a href="pages/partnership.html">Partnership</a></li>
-                <li><a href="pages/contact.html">Contact</a></li>
-            </ul>
-            <div class="hamburger">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </div>
-    </nav>
-
-    <!-- Hero Banner -->
-    <section class="hero">
-        <div class="hero-content">
-            <h6 data-content="welcome_text">Welcome to</h6>
-            <h1 data-content="main_title">LITTLE PLAYROOM CAFÉ</h1>
-            <h3 data-content="subtitle">Not Your Ordinary Playground</h3>
-            <!-- <p data-content="description">A safe and fun environment where children can play, learn, and create memories</p> -->
-            <p data-content="description">
-            A safe and fun environment where children can play, learn, and create memories.<br>
-            </p>
-
-            <div class="hero-cta-buttons">
-                <button class="cta-button secondary" onclick="scrollToSection('quick-nav')" data-content="cta_button">Explore Now</button>
-            </div>
-        </div>
-        <div class="hero-image">
-            <img data-alias="hero-main" alt="Kids playing in cafe">
-        </div>
-        <div class="hero-image-2">
-            <img data-alias="hero-main-2" alt="Kids playing in cafe">
-        </div>
-    </section>
-
-    <!-- Customizable Announcement Section -->
-    <section class="announcement-section" id="announcement-section" style="display: none;">
-        <div class="container">
-            <div class="announcement-content">
-                <i class="fas fa-bullhorn announcement-icon"></i>
-                <div class="announcement-text">
-                    <h3 id="announcement-title">Important Notice</h3>
-                    <p id="announcement-message">Currently closed for maintenance. We apologize for any inconvenience.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Quick Navigation Buttons -->
-    <section id="quick-nav" class="quick-nav">
-        <div class="container">
-            <div class="quick-nav-grid">
-                <a href="pages/about.html" class="quick-nav-item">
-                    <i class="fas fa-info-circle"></i>
-                    <h3 data-content="about_text">Learn about our cafe</h3>
-                    <p>Learn about our cafe</p>
-                </a>
-                <a href="pages/menu.html" class="quick-nav-item">
-                    <i class="fas fa-utensils"></i>
-                    <h3 data-content="menu_text">View our food & drinks</h3>
-                    <p>View our food & drinks</p>
-                </a>
-                <a href="pages/party.html" class="quick-nav-item">
-                    <i class="fas fa-birthday-cake"></i>
-                    <h3 data-content="party_text">Book your celebration</h3>
-                    <p>Book your celebration</p>
-                </a>
-                <a href="pages/contact.html" class="quick-nav-item">
-                    <i class="fas fa-phone"></i>
-                    <h3 data-content="contact_text">Get in touch with us</h3>
-                    <p>Get in touch with us</p>
-                </a>
-            </div>
-        </div>
-    </section>
-
-    <!-- Tagline Section -->
-    <section class="tagline-section">
-        <div class="container">
-            <div class="tagline-content">
-                <h2 data-content="tagline_title">Play. Learn. Party.</h2>
-                <p data-content="tagline_description">Three simple words that capture everything we do at Little Playroom Cafe. We believe every child deserves a space where they can be themselves, explore their creativity, and make lasting friendships.</p>
-            </div>
-        </div>
-    </section>
-
-    <!-- About Preview -->
-    <section class="about-preview">
-        <div class="container">
-            <div class="about-preview-content">
-                <div class="about-text">
-                    <h2 data-content="about_title">About Our Cafe</h2>
-                    <p data-content="about_description_1">Little Playroom Cafe is more than just a play space – it's a community hub where families come together to create memories. Our unique concept combines safe play areas with a comfortable cafe environment, allowing parents to relax while their children explore and have fun.</p>
-                    <p data-content="about_description_2">
-                        We offer age-appropriate play zones, educational activities, and delicious food options for the whole family. Our mission is to provide a welcoming environment where children can develop social skills, creativity, and confidence through play.<br><br>
-                        Day Pass (Same Day Reentry Allowed): 
-                        $19.99 per child; $14.99 2nd child; $9.99 3rd child<br>
-                        Monthly Pass (one child): $149 (Unlimited Play)<br>
-                        Family Monthly Pass (up to 3 children): $249
-                    </p>
-                    <a href="pages/about.html" class="read-more-btn" data-content="about_cta">Learn More</a>
-                </div>
-                <div class="about-image">
-                    <img data-alias="cafe-interior-preview" alt="Cafe interior">
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Gallery Preview -->
-    <section class="gallery-preview">
-        <div class="container">
-            <h2 data-content="gallery_title">Take a Look Around</h2>
-            <div class="gallery-grid">
-                <div class="gallery-item">
-                    <img data-alias="playground-preview" alt="Playground area">
-                    <div class="gallery-overlay">
-                        <h3 data-content="playground_overlay">Playground</h3>
-                    </div>
-                </div>
-                <div class="gallery-item">
-                    <img data-alias="party-preview" alt="Party area">
-                    <div class="gallery-overlay">
-                        <h3 data-content="learning_zone_overlay">Learning Zone</h3>
-                    </div>
-                </div>
-                <div class="gallery-item">
-                    <img data-alias="cafe-preview" alt="Cafe area">
-                    <div class="gallery-overlay">
-                        <h3 data-content="cafe_overlay">Cafe</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="gallery-cta">
-                <a href="pages/gallery.html" class="view-gallery-btn" data-content="gallery_cta">View Full Gallery</a>
-            </div>
-        </div>
-    </section>
-
-    <!-- Footer -->
-    
-    <script src="js/image-aliases.js"></script>
-    <script src="js/footer-loader.js"></script>
-    <script src="js/announcement.js"></script>
-    <script src="js/content-loader-simple.js?v=5"></script>
-    <script src="js/script.js"></script>
+    <main class="notice">
+        <img src="images/logo.svg" alt="Little Playroom Cafe Logo">
+        <h2>LITTLE PLAYROOM CAFÉ</h2>
+        <h1>Website Currently Out of Service</h1>
+        <p>Our website is temporarily unavailable. We apologize for any inconvenience.</p>
+        <p>For questions, please email us at <a href="mailto:playroommadison@gmail.com">playroommadison@gmail.com</a>.</p>
+    </main>
 </body>
-</html> 
+</html>
